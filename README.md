@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>🔭 I’m currently crafting innovative solutions in web development, full-stack development, Robotic Process Automation, Salesforce.<br>🌱 I’m exploring new technologies to create impactful software and smart automation systems.<br>🤝 I enjoy collaborating on projects that bridge technology and creativity, from web apps to connected devices.<br>💬 Ask me about my experience with building solutions that simplify processes and enhance user experience.<br>📫 Fun fact: I’m always tinkering with new ideas to push the boundaries of technology!
+Hi there! 👋<br>🔭 I’m currently crafting innovative solutions in web development, full-stack development and Robotic Process Automation.<br>🌱 I’m exploring new technologies to create impactful software and smart automation systems.<br>🤝 I enjoy collaborating on projects that bridge technology and creativity, from web apps to connected devices.<br>💬 Ask me about my experience with building solutions that simplify processes and enhance user experience.<br>📫 Fun fact: I’m always tinkering with new ideas to push the boundaries of technology!
 
 
 # 💻 Tech Stack:
