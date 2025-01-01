@@ -12,8 +12,7 @@ Hi there! 👋<br>🔭 I’m currently crafting innovative solutions in web deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrasannaYN&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrasannaYN&icon=1&color=3)](https://visitcount.itsvg.in)
